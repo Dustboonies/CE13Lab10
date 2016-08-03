@@ -1,5 +1,5 @@
 Dustin Feldsine 1450786
-Collaboration: None, I have no friends still.
+Collaboration: None.
 
 Summary:
 I think the important aspects of this lab were working with the VC100 and learning how to use different forms
